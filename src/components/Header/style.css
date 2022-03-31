@@ -1,0 +1,13 @@
+h1 {
+    letter-spacing: 0.1em;
+    padding: 30px;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.logo {
+    display: inline-block;
+    width: auto;
+    height: 1em;
+    margin-right: 0.7em;
+}

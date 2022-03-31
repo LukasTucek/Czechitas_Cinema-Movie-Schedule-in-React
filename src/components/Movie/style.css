@@ -1,0 +1,37 @@
+
+.movie-table { 
+    border: 2px;
+    border-style: solid;
+    padding: 20px;
+    margin: 2px;
+    border-color: #494949;
+    background-color: #e7e7e7;
+    width: 33%;
+    overflow: hidden;
+}
+
+p {
+    text-align: center;
+
+}
+
+.movie-table h2 {
+    color: green;
+}
+
+.poster {
+    width: 10rem;
+    height: auto;
+    float: left;
+    
+}
+
+.rating {
+    background-color: black;
+    position: absolute;
+    margin-top: -38px;
+    font-size: .8rem;
+    color: white;
+    padding: 5px;
+    border-style: double;
+}
